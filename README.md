@@ -1,0 +1,1 @@
+This is a basic Rock, Paper, Scissor Game using HMTL, CSS, and Javascript.
